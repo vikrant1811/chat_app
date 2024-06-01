@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380128567765",
+    "project_id": "chatapp-f4ae6",
+    "storage_bucket": "chatapp-f4ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380128567765:android:89fe08c8e037bcf9515d5c",
+        "android_client_info": {
+          "package_name": "com.vikrant.app_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMecHrFjGBVoMXdTqIoHuhK2A5jkwMR1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
